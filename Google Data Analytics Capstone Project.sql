@@ -95,6 +95,22 @@ SET time_of_day = CASE
     ELSE 'Evening'
 END;
 
+-- create a column for the month using the full month name
+UPDATE cyclistic_date
+SET month = CASE 
+    WHEN month = '01' THEN 'January'
+    WHEN month = '02' THEN 'February'
+    WHEN month = '03' THEN 'March'
+    WHEN month = '04' THEN 'April'
+    WHEN month = '05' THEN 'May'
+    WHEN month = '06' THEN 'June'
+    WHEN month = '07' THEN 'July'
+    WHEN month = '08' THEN 'August'
+    WHEN month = '09' THEN 'September'
+    WHEN month = '10' THEN 'October'
+    WHEN month = '11' THEN 'November'
+    WHEN month = '12' THEN 'December'
+END;
 -- -----------------------------------------DATA CLEANING-----------------------------------------------
 
 -- Remove rows with invalid data (negative or zero ride lengths)
