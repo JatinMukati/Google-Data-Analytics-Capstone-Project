@@ -37,7 +37,7 @@ The task is to analyze user data and answer the following questions:
 The data was sourced from Motivate, a company that collects bike-sharing usage data for the City of Chicago. [Link to data](https://www.divvybikes.com/system-data) (public data).
 
 ### 4.2 Data Organization
-The dataset consists of monthly CSV files. Each file contains columns such as ride ID, ridership type, ride time, start and end locations, and geographic coordinates.
+The dataset consists of monthly CSV files. Each file contains columns such as ride id, bike type, start time, end time, start station, end station, start location, end location, and whether the rider is a member or not.
 
 ### 4.3 Data Credibility
 The data is directly collected by Motivate, making it comprehensive, consistent, and reliable for the intended analysis. The data includes all rides taken during the time period.
