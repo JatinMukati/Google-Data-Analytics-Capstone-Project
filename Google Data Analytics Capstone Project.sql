@@ -95,7 +95,7 @@ SET time_of_day = CASE
     ELSE 'Evening'
 END;
 
--- create a column for the month using the full month name
+-- Update column for the month using the full month name
 UPDATE cyclistic_date
 SET month = CASE 
     WHEN month = '01' THEN 'January'
