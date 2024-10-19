@@ -94,6 +94,12 @@ You can find the SQL code used for data cleaning and analysis here: [SQL Code](h
 - **Most Popular Bike**: Classic bike
 
 ## 7. Phase 5: Share
+
+![Screenshot 2024-10-20 021619](https://github.com/user-attachments/assets/88801551-dbab-4a32-a138-5f80f3b79534)
+![Screenshot 2024-10-20 021703](https://github.com/user-attachments/assets/ccf94be0-3d05-450e-82ac-98bc143f885e)
+![Screenshot 2024-10-20 021733](https://github.com/user-attachments/assets/32d654d3-1360-44c4-a325-f8a49ea05747)
+![Screenshot 2024-10-20 021750](https://github.com/user-attachments/assets/255e4de3-06fd-4766-acb9-61c42589e433)
+
 You can view the complete analysis and visualizations on my [Tableau Dashboard](https://public.tableau.com/app/profile/jatin.mukati/viz/GoogleDataAnalyticsCapstoneProjectJM/Dashboard).
 
 ## 8. Conclusion
