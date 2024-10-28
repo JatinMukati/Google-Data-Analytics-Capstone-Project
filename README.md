@@ -104,5 +104,3 @@ You can view the complete analysis and visualizations on my [Tableau Dashboard](
 
 ## 8. Conclusion
 The analysis highlights key differences between casual riders and annual members. By focusing on peak riding times and popular bike types, Cyclistic can target casual riders with digital media campaigns during high-usage periods. Offering promotions or incentives during summer and weekends could also help convert casual riders into members. Further, enhancing the experience for electric and docked bike users may be another strategy to explore.
-
-
